@@ -3,15 +3,13 @@ A simple and interactive web application to view current weather and forecasts f
 
 ## Screenshots
 
-<p align="right">
+<p>
   <img src="screenshot1.png" alt="Screenshot 1" width="500" height="400"/>
 </p>
-
-<p align="left">
+<p>
   <img src="screenshot2.png" alt="Screenshot 2" width="500" height="400"/>
 </p>
-
-<p align="right">
+<p>
   <img src="screenshot3.png" alt="Screenshot 3" width="500" height="400"/>
 </p>
 
