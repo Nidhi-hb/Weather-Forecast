@@ -3,9 +3,9 @@ A simple and interactive web application to view current weather and forecasts f
 
 
 <p align="center">
-  <img src="screenshot1.png" width="300" height="400" style="margin-right: 20px;"/>
+  <img src="screenshot1.png" width="300" height="800" style="margin-right: 20px;"/>
   <img src="screenshot2.png" width="300" height="400" style="margin-right: 20px;"/>
-  <img src="screenshot3.png" width="300" height="400"/>
+  <img src="screenshot3.png" width="300" height="700"/>
 </p>
 
 
